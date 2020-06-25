@@ -17,5 +17,5 @@ end
 # updates the board according to the user's input
 def move(array, index, character)
   array[index] = character
-  
+
 end
