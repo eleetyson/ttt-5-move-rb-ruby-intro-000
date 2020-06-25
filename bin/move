@@ -3,6 +3,3 @@
 require_relative '../lib/move.rb'
 
 # Code your CLI Here
-def input_to_index(input)
-  'input'.to_i() - 1
-end
