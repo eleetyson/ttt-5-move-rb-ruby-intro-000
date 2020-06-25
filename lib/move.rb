@@ -16,6 +16,7 @@ end
 
 # updates the board according to the user's input
 def move(array, index, character)
+  # update the index for where the user played
   array[index] = character
-
+  # return the updated array (the board)
 end
